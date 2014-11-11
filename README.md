@@ -1,7 +1,7 @@
 JsCaster
 ========
 
-A simple prototype for a raycaster in a few lines of javascript.
+A simple prototype for a Wolfenstein-type raycaster in a few lines of javascript.
 
 Beware of german comments :smile:
 
